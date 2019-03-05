@@ -73,7 +73,7 @@
     },
     "style": "dark text-white",
     "header_html": {
-      "content": "",
+      "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
       "_template": "2_col",
       "custom_classes": [
         "inner: p-4"
