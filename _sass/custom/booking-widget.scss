@@ -1,0 +1,18 @@
+.ttweb-booking-widget {
+  color: $black;
+  .ttweb-calendar-month {
+    &__grid {
+      .ttweb-day {
+        &--in-selection {
+          background-color: $primary;
+        }
+      }      
+    }
+  }
+  a.ttweb-booking-widget__submit {
+    @extend .btn;
+    @extend .btn--outline;
+    margin: 0px auto;
+    background-color: $black;
+  }
+}
