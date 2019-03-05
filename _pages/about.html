@@ -19,8 +19,8 @@ meta_tags:
 
 <section class="">
   <div class="row">
-    <div class="col-md-1">&nbsp;</div>
-    <div class="col-md-5 pl-4 justify-content-center flex-column h-100">
+    <div class="col-md-2">&nbsp;</div>
+    <div class="col-md-3 pl-4 justify-content-center flex-column h-100">
       <h1 class='h3'>{% region page_h1, type:header %}</h1>
       {% regionblock intro_text, type:html %}
         <p>Lorem ipsum etc</p>
@@ -35,32 +35,32 @@ meta_tags:
 
 <section class="">
   <div class="row">
-    <div class="col-md-6 h-100 ">
-      <div class='row'>
-        <div class='col-md-8 h-100 objectfit'>
+    <div class="col-md-6 h-100 d-flex flex-column">
+      <div class='mb-4 d-flex flex-row row'>
+        <div class='col-md-8 objectfit'>
           {% region img_grid_1, type:image %}
         </div>
-        <div class='col-md-4 h-100 objectfit'>
+        <div class='col-md-4 objectfit'>
           {% region img_grid_2, type:image %}
         </div>
       </div>
-      <div class='row'>
-        <div class='col-md-8 h-100 objectfit'>
+      <div class='d-flex flex-row row'>
+        <div class='col-md-8 objectfit'>
           {% region img_grid_3, type:image %}
         </div>
-        <div class='col-md-4 h-100 objectfit'>
+        <div class='col-md-4 objectfit'>
           {% region img_grid_4, type:image %}
         </div>
       </div>
     </div>
   
-    <div class="col-md-5 pr-4 justify-content-center align-items-center flex-column h-100 text-center">
-      <div class="col--brand-alt p-3">
+    <div class="col-md-3 col--brand-alt p-4">
+      <div class="justify-content-center align-items-center flex-column h-100 text-center h-100 d-flex">
         <p class='h2'>Stay In-The-Know</p>
         <p class='h4'>SIGN UP FOR OUR NEWSLETTER</p>
         <p>[Newsltter form implemented as an include]</p>      
       </div>
     </div>
-    <div class="col-md-1">&nbsp;</div>    
+    <div class="col-md-2">&nbsp;</div>    
   </div>
 </section>
