@@ -36,7 +36,7 @@
         "description": ""
       },
       "mask_color": "#947357",
-      "mask_opacity": ".5"
+      "mask_opacity": ".75"
     },
     "col1_type": "image",
     "col1_image": {
@@ -75,7 +75,9 @@
     "header_html": {
       "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
       "_template": "2_col",
-      "custom_classes": null
+      "custom_classes": [
+        "inner: p-4"
+      ]
     },
     "footer_html": {
       "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
