@@ -1,0 +1,12 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  > div {
+    position: relative;
+    order: 2;
+    &+ div {
+      margin-bottom: 3em;
+      order: 1;
+    }
+  }
+}
