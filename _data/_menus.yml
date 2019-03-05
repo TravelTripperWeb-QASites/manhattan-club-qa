@@ -20,6 +20,12 @@ main:
     items: 
   - page_id: _pages/contact.html
     items: 
+  - folder: false
+    url_localized:
+      en: sitemap
+    page_id: _pages/sitemap.html
+    label_localized:
+      en: Sitemap
 footer:
   depth: 1
   name: Footer Menu
