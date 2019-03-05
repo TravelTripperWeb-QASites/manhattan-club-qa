@@ -75,9 +75,7 @@
     "header_html": {
       "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
       "_template": "2_col",
-      "custom_classes": [
-        "inner: p-4"
-      ]
+      "custom_classes": null
     },
     "footer_html": {
       "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
