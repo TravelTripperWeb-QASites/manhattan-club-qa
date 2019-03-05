@@ -81,5 +81,8 @@
       "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
       "_template": "2_col"
     }
+  },
+  {
+    "_template": "2_col"
   }
 ]
