@@ -6,12 +6,12 @@
         "gallery": "rooms"
       },
       {
-        "label": "Hotel & Amenities",
-        "gallery": "exterior"
-      },
-      {
         "label": "NYC",
         "gallery": "city"
+      },
+      {
+        "label": "Hotel & Amenities",
+        "gallery": "exterior"
       }
     ],
     "_template": "galleries"
