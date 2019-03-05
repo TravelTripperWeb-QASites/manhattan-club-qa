@@ -9,4 +9,13 @@
       order: 1;
     }
   }
+  > div.mask {
+    order: 0;
+    &+ div {
+      order: 2;
+      &+ div {
+        order: 1;
+      }
+    }
+  }
 }
