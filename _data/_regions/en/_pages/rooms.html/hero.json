@@ -4,6 +4,10 @@
       "content": "OUR SUITES",
       "_template": "header"
     },
-    "_template": "hero"
+    "_template": "hero",
+    "hero_html": {
+      "content": "<p class=\"h4\">STAY COZY AND MODERN WITH</p>",
+      "_template": "hero"
+    }
   }
 ]
