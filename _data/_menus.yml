@@ -4,13 +4,19 @@ main:
   name: Top Menu
   items:
   - page_id: _pages/about.html
+    items: 
   - page_id: _pages/rooms.html
+    items: 
   - page_id: _pages/offers.html
-  - page_id: _pages/gallery.html
-  - page_id: _pages/contact.html
+    items: 
   - folder: false
     url_localized: ''
     page_id: _pages/location.html
+    items: 
+  - page_id: _pages/gallery.html
+    items: 
+  - page_id: _pages/contact.html
+    items: 
 footer:
   depth: 1
   name: Footer Menu
