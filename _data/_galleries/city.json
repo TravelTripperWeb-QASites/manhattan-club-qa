@@ -20,6 +20,26 @@
       "git_file_name": "_assets/image_data/Intro-Img.json",
       "path": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065730/Intro_Img.jpg",
       "alt": "Intro Img"
+    },
+    {
+      "name": "Hero",
+      "file_name": "Hero.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/Hero.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-10-25-065742",
+      "file_type": "image/jpeg",
+      "width": 1440,
+      "height": 348,
+      "file_size": 601140,
+      "url_large": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/large_Hero.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/medium_Hero.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/small_Hero.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/xsmall_Hero.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/thumb_Hero.jpg",
+      "git_file_name": "_assets/image_data/Hero.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_923_20292/media/2018-10-25-065742/Hero.jpg",
+      "alt": "Hero"
     }
   ],
   "description": "",
