@@ -1,0 +1,35 @@
+#tt-region-hero {
+  .hero {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    &:before {
+      content: "";
+      position: absolute;
+      display: block;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: $beige;
+      opacity: 0.5;
+    }
+    h3, h4 {
+      position: relative;
+      width: 70%;
+      margin: 0px auto;
+      text-align: center;
+    }
+    h3 {
+      order: 2;
+      @extend .h1;
+      margin-top: 1em;
+    }
+    h4 {
+      order: 1;
+      @extend .h4;
+    }
+    
+  }
+}
+
+.c-intro {
+  margin: 100px 0;
+}

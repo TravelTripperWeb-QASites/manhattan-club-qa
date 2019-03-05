@@ -1,0 +1,22 @@
+.hero {
+  height: 24rem;
+  display: flex;
+  flex-direction: column;
+  > div {
+    position: relative;
+    order: 2;
+    &+ div {
+      margin-bottom: 3em;
+      order: 1;
+    }
+  }
+  > div.mask {
+    order: 0;
+    &+ div {
+      order: 2;
+      &+ div {
+        order: 1;
+      }
+    }
+  }
+}
