@@ -4,6 +4,31 @@
       "content": "GALLERY",
       "_template": "header"
     },
-    "_template": "html"
+    "_template": "html",
+    "hero_image": {
+      "image": {
+        "name": "KitchinetAlta",
+        "file_name": "KitchinetAlta.jpg",
+        "url": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/KitchinetAlta.jpg",
+        "tags": "",
+        "description": "",
+        "date_added": "2019-01-06-234757",
+        "file_type": "image/jpeg",
+        "width": 4238,
+        "height": 2633,
+        "file_size": 4351585,
+        "url_large": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/large_KitchinetAlta.jpg",
+        "url_medium": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/medium_KitchinetAlta.jpg",
+        "url_small": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/small_KitchinetAlta.jpg",
+        "url_xsmall": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/xsmall_KitchinetAlta.jpg",
+        "url_thumb": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/thumb_KitchinetAlta.jpg",
+        "git_file_name": "_assets/image_data/KitchinetAlta.json",
+        "path": "//cdn.traveltripper.io/site-assets/32_923_22414/media/2019-01-06-234757/KitchinetAlta.jpg",
+        "alt": "KitchinetAlta",
+        "caption": ""
+      },
+      "mask_color": "#947357",
+      "mask_opacity": "0.75"
+    }
   }
 ]
