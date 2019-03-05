@@ -74,7 +74,10 @@
     "style": "dark text-white",
     "header_html": {
       "content": "",
-      "_template": "2_col"
+      "_template": "2_col",
+      "custom_classes": [
+        "inner: p-4"
+      ]
     }
   }
 ]
