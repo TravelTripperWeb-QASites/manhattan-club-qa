@@ -10,6 +10,8 @@
       "_template": "intro"
     },
     "container_classes": "",
-    "layout": "1_col"
+    "layout": "1_col",
+    "h1_header_type": "h3",
+    "h1_text_alignment": "text-center"
   }
 ]
