@@ -13,7 +13,7 @@ address:
 default_currency: USD
 default_timezone: America/New_York
 _hotel_id: NYCTMC
-_portal_id: thepierreny
+_portal_id: manhattanclub
 _root_path: https://rt3api-prd.ttaws.com
 _ttweb_plugins_version: v3.2.1
 __EDITABLE_FIELDS__:
