@@ -62,6 +62,10 @@
         "alt": "junior-living-room"
       },
       "_template": "image"
+    },
+    "col2_html": {
+      "content": "<p class=\"h4\">Modern Comforts</p>\n<p class=\"h4\">&nbsp;</p>\n<p class=\"h4\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum sodales sapien, quis aliquam ipsum lacinia eu.</p>\n<p class=\"h4\">&nbsp;</p>\n<p class=\"h4\"><a class=\"btn btn--primary\" href=\"rooms/\">VIEW ROOMS</a> <a class=\"btn btn--secondary\" href=\"#\">Book Now</a></p>",
+      "_template": "2_col"
     }
   }
 ]
