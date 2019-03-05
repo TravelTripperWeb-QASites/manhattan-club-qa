@@ -8,6 +8,8 @@
     "post_header": {
       "content": "<p style=\"text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum sodales sapien, quis aliquam ipsum lacinia eu.</p>\n<p style=\"text-align: center;\"><a class=\"btn btn--secondary\" href=\"#\">LEARN MORE</a></p>",
       "_template": "intro"
-    }
+    },
+    "container_classes": "",
+    "layout": "1_col"
   }
 ]
