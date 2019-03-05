@@ -32,8 +32,8 @@ $grey: #cccccc  !default;
     //    $info: $cyan !default;
     //    $warning: $yellow !default;
     //    $danger: $red !default;
-    //    $light: $gray-100 !default;
-    //    $dark: $gray-800 !default;
+    $light: $grey !default;
+    $dark: $light-black !default;
     //
     //    $theme-colors: () !default;
     //    $theme-colors: map-merge(
