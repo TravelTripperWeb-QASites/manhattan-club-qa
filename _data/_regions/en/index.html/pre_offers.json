@@ -78,6 +78,10 @@
       "custom_classes": [
         "inner: p-4"
       ]
+    },
+    "footer_html": {
+      "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "_template": "2_col"
     }
   }
 ]
