@@ -84,7 +84,7 @@
   },
   {
     "_template": "slider",
-    "style": "white text-primary",
+    "style": "",
     "slides": [
       {
         "title": "Sample Slide",
