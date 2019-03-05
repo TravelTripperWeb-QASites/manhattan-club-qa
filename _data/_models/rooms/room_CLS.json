@@ -1,0 +1,94 @@
+{
+  "name_localized": {
+    "en": "City Lights Suite "
+  },
+  "short_description_localized": {
+    "en": "Luxury accommodations with modern furnishings.Suite located on second floor 465 - 562 sq. ft. Kitchenette and Free WiFi "
+  },
+  "description_localized": {
+    "en": "Luxury accommodations with modern furnishings.Suite located on second floor 465 - 562 sq. ft. Kitchenette and Free WiFi. Queen or King Bed\r\nwith sleeper sofa "
+  },
+  "amenities": [
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities7",
+    "room_amenities8",
+    "room_amenities6"
+  ],
+  "images": [
+    {
+      "name": "City-Lights-Suite--City-Lights-Bedroom",
+      "content_type": null,
+      "date_added": "2019-03-04-221253",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755573/f1fmdr9z7fshpzbe505k.jpg",
+      "resource_type": "image",
+      "size": 45355,
+      "caption": "City Lights Bedroom",
+      "description": "This suite includes a king size bed and large window.",
+      "alt": "A king sized bed to the right of a large window. There is light fixture in between and room amenity tray on the bed.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/51240_1_yankee_large.jpg"
+    },
+    {
+      "name": "City-Lights-Suite--City-Lights-Living-Room",
+      "content_type": null,
+      "date_added": "2019-03-04-221253",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755573/hsqpstw8zkqrfs6tgbwo.jpg",
+      "resource_type": "image",
+      "size": 59308,
+      "caption": "City Lights Living Room",
+      "description": "This living room includes a TV, dresser, armless chair, and coffee table.",
+      "alt": "This living room includes a dresser beneath a suspended TV on the right wall. In the corner, to the left of the TV and right of a large window, an armless chair. In front of the dresser sits a coffee table.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/51241_1_yankee_large.jpg"
+    },
+    {
+      "name": "City-Lights-Suite--City-Lights-Suite-Bath",
+      "content_type": null,
+      "date_added": "2019-03-04-221253",
+      "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755574/a3khk4t2axk2ezc09ljt.jpg",
+      "resource_type": "image",
+      "size": 65497,
+      "caption": "City Lights Suite Bath",
+      "description": "This bathroom includes a shower stall and large countertop with a sink.",
+      "alt": "On the right wall, a large shower stall enclosed with a glass door. To the left, a long counter top with a sink on the right side. A large mirror sits above the counter and shelf below. Towels can be found on the bottom shelf.",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/1025/50205_2_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "CLS",
+  "order": 3,
+  "guest_size_max": 3,
+  "size": "465 ft<sup>2</sup>",
+  "room_category": null,
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_QN",
+    "bed_type_KG"
+  ]
+}

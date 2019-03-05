@@ -1,0 +1,19 @@
+[
+  {
+    "galleries": [
+      {
+        "label": "Suites",
+        "gallery": "rooms"
+      },
+      {
+        "label": "Hotel & Amenities",
+        "gallery": "exterior"
+      },
+      {
+        "label": "NYC",
+        "gallery": "city"
+      }
+    ],
+    "_template": "galleries"
+  }
+]

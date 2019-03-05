@@ -1,0 +1,46 @@
+.btn, .btn:active, .btn:focus {
+  background-color: transparent;
+  border: 1px solid $white;
+  &:hover {
+    background-color: $white;
+    color: $black !important;
+  }
+  + .btn {
+    margin-left: $grid-gutter-width;
+  }
+}
+
+.btn--outline  {
+  border-color: $beige;
+  color: $white !important;
+  &:hover, &:active {
+    background-color: $beige;
+    color: $white !important;
+  }
+}
+
+.btn--secondary {
+  border: none;
+  color: $white; //also white, beige
+  &:hover {
+    color: $white !important;
+    background-color: transparent;
+  }
+} 
+
+.navbar {
+  .btn {
+    font-family: "Roboto";
+    font-weight: 900; //"roboto black"
+    letter-spacing: 5px;
+    background-color: $light-black;
+    border: 3px solid $beige;
+    &:hover {
+      background-color: $beige;
+    }
+    &:active, &:focus {
+      border: 0;
+      box-shadow: none;
+    }
+  }
+}
