@@ -118,6 +118,10 @@
         "file_size": null
       },
       "_template": "image"
+    },
+    "header_html": {
+      "content": "<p class=\"h1\" style=\"text-align: center;\">Sample Header</p>",
+      "_template": "2_col"
     }
   }
 ]
