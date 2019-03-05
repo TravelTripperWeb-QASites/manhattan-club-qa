@@ -2,8 +2,8 @@
   {
     "hero_html": {
       "content": "<p>STAY AND SAVE IN NYC</p>",
-      "_template": "hero"
+      "_template": "html"
     },
-    "_template": "html"
+    "_template": "hero"
   }
 ]
