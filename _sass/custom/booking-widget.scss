@@ -11,5 +11,8 @@
   }
   a.ttweb-booking-widget__submit {
     @extend .btn;
+    @extend .btn--outline;
+    margin: 0px auto;
+    background-color: $black;
   }
 }
