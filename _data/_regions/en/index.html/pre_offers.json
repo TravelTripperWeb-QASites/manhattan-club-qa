@@ -120,6 +120,10 @@
     "col2_html": {
       "content": "<p>This is some text.</p>",
       "_template": "2_col"
+    },
+    "header_html": {
+      "content": "<p class=\"h1\" style=\"text-align: center;\">This is a header</p>",
+      "_template": "2_col"
     }
   }
 ]
