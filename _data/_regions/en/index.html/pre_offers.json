@@ -70,6 +70,7 @@
         "inner: w-100 d-flex flex-column h-100 justify-content-center",
         "inner: p-4"
       ]
-    }
+    },
+    "style": "dark text-white"
   }
 ]
