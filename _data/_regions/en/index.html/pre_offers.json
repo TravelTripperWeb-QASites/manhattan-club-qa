@@ -116,6 +116,10 @@
         "file_size": null
       },
       "_template": "image"
+    },
+    "col2_html": {
+      "content": "<p>This is some text.</p>",
+      "_template": "2_col"
     }
   }
 ]
