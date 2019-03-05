@@ -71,6 +71,10 @@
         "inner: p-4"
       ]
     },
-    "style": "dark text-white"
+    "style": "dark text-white",
+    "header_html": {
+      "content": "",
+      "_template": "2_col"
+    }
   }
 ]
