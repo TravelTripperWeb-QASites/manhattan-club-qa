@@ -122,6 +122,10 @@
     "header_html": {
       "content": "<p class=\"h1\" style=\"text-align: center;\">Sample Header</p>",
       "_template": "2_col"
+    },
+    "col2_html": {
+      "content": "<p style=\"color: white;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget efficitur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis massa non nisl porta, posuere tincidunt velit consectetur. Quisque tempus placerat est, suscipit gravida justo condimentum vitae. Quisque sed malesuada sapien. Fusce ac eros non enim gravida finibus. Ut ac eros sit amet ex tincidunt pulvinar. Aliquam velit purus, lobortis sed mollis sed, ornare sit amet sapien. Maecenas dapibus orci non erat auctor, a mattis sapien vestibulum. Duis sit amet tortor nec ex tempus tincidunt quis ut dolor. Quisque tempus aliquam ligula vel sollicitudin. Aenean in nulla eu arcu congue consectetur varius non risus. Curabitur mattis neque erat, quis convallis eros auctor et. Morbi nec mi eu risus eleifend vulputate.</p>",
+      "_template": "2_col"
     }
   }
 ]
