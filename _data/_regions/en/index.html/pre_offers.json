@@ -83,6 +83,13 @@
     }
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col2_type": "html",
+    "style": "",
+    "include_header": true,
+    "include_footer": true,
+    "include_gap": true,
+    "layout": "",
+    "col1_type": "image"
   }
 ]
