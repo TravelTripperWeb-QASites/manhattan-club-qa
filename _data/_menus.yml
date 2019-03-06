@@ -20,6 +20,9 @@ main:
     items: 
   - page_id: _pages/contact.html
     items: 
+  - folder: true
+    label_localized:
+      en: Testing
 footer:
   depth: 1
   name: Footer Menu
