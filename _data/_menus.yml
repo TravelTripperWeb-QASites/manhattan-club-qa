@@ -23,6 +23,12 @@ main:
   - folder: true
     label_localized:
       en: Testing
+  - folder: false
+    url_localized:
+      en: privacy
+    page_id: _pages/privacy.html
+    label_localized:
+      en: Privacy
 footer:
   depth: 1
   name: Footer Menu
