@@ -20,6 +20,17 @@ main:
     items: 
   - page_id: _pages/contact.html
     items: 
+  - folder: true
+    label_localized:
+      en: Testing
+    items: 
+  - folder: false
+    url_localized:
+      en: privacy
+    page_id: _pages/privacy.html
+    label_localized:
+      en: Privacy
+    items: 
 footer:
   depth: 1
   name: Footer Menu
