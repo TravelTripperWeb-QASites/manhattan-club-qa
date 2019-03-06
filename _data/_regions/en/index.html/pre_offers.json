@@ -115,5 +115,8 @@
       "content": "Some subtitle",
       "_template": "header"
     }
+  },
+  {
+    "_template": "2_col"
   }
 ]
