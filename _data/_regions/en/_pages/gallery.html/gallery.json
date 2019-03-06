@@ -12,6 +12,10 @@
       {
         "label": "NYC",
         "gallery": "city"
+      },
+      {
+        "label": "Test",
+        "gallery": "test_gallery"
       }
     ],
     "_template": "galleries"
