@@ -107,6 +107,9 @@
         "alt": "BanocompletoAlta",
         "caption": ""
       }
+    },
+    "hero_html": {
+      "content": "<p class=\"h1\">Some Hero Text</p>"
     }
   }
 ]
