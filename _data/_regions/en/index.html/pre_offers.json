@@ -147,6 +147,9 @@
         "file_size": null
       },
       "_template": "image"
+    },
+    "col2_html": {
+      "content": "<p>Hi I'm some text</p>"
     }
   }
 ]
