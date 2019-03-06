@@ -120,6 +120,9 @@
     },
     "col2_html": {
       "content": "<p>This is some sample text.</p>"
+    },
+    "header_html": {
+      "content": "<p class=\"h1\" style=\"text-align: center;\">This is a header.</p>"
     }
   }
 ]
