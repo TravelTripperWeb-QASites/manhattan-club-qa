@@ -1,3 +1,5 @@
+@import '../_ttio_templates/zom/sass/utilities/functions'; // Load functions so mixins work
+
 @import '_variables'; // Site-specific overrides
 
 @import '../_ttio_templates/bedrock/_themes/stewart/sass/variables'; // Remove for a 'blank' template, or switch to another theme
