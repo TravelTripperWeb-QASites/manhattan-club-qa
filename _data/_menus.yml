@@ -16,10 +16,16 @@ main:
     url_localized: ''
     page_id: _pages/location.html
     items: 
-  - page_id: _pages/gallery.html
-    items: 
   - page_id: _pages/contact.html
     items: 
+  - page_id: _pages/gallery.html
+    items: 
+  - folder: false
+    url_localized:
+      en: privacy
+    page_id: _pages/privacy.html
+    label_localized:
+      en: Privacy
 footer:
   depth: 1
   name: Footer Menu
