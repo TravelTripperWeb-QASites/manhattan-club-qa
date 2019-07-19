@@ -1,5 +1,17 @@
 [
   {
-    "_template": "galleries"
+    "_template": "galleries",
+    "advanced_options": {
+    },
+    "galleries": [
+      {
+        "label": "Exterior",
+        "gallery": "exterior"
+      },
+      {
+        "gallery": "rooms",
+        "label": "Rooms & Suites"
+      }
+    ]
   }
 ]
