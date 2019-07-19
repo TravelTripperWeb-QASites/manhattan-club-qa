@@ -5,12 +5,12 @@
     },
     "galleries": [
       {
-        "label": "Exterior",
-        "gallery": "exterior"
-      },
-      {
         "gallery": "rooms",
         "label": "Rooms & Suites"
+      },
+      {
+        "label": "Exterior",
+        "gallery": "exterior"
       }
     ]
   }
