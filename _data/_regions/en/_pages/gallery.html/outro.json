@@ -9,6 +9,10 @@
         "label": "Rooms & Suites"
       },
       {
+        "gallery": "city",
+        "label": "Manhattan"
+      },
+      {
         "label": "Exterior",
         "gallery": "exterior"
       }
