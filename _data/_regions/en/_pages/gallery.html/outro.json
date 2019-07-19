@@ -1,5 +1,89 @@
 [
   {
-    "_template": "on_page_gallery"
+    "_template": "on_page_gallery",
+    "galleries": [
+      {
+        "name": "Gallery One",
+        "images": [
+          {
+            "name": "Handicap-Accessible-City-Lights-Suite--City-Lights-Bedroom",
+            "content_type": null,
+            "date_added": "2019-03-04-221303",
+            "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "width": 800,
+            "height": 600,
+            "format": "jpg",
+            "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "resource_type": "image",
+            "size": 39358,
+            "caption": "",
+            "description": "",
+            "alt": "A king sized bed to the right of a large window. There is light fixture in between and room amenity tray on the bed.",
+            "original_url": "https://d31f902anbz5po.cloudfront.net/1025/271929_2_yankee_large.jpg",
+            "git_file_name": "_assets/image_data/Handicap-Accessible-City-Lights-Suite--City-Lights-Bedroom.json",
+            "path": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755583/jxrc69gjdyloixy7vfoi.jpg",
+            "file_size": null
+          },
+          {
+            "name": "Handicap-Accessible-Executive-Jr.-Suite-Executive-Jr.-Suite---View-from-Sleeper-Sofa",
+            "content_type": null,
+            "date_added": "2019-03-04-221258",
+            "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "width": 800,
+            "height": 600,
+            "format": "jpg",
+            "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "resource_type": "image",
+            "size": 63276,
+            "caption": "",
+            "description": "",
+            "alt": "In the right corner of the room, a queen bed is nestled to the right of a double window. A tv rests on the wall between this window and another window, hanging above a small dresser. In front of the second window sits an arm chair. The arm chair, along with a couch perpendicular to it, surround a glass coffee table.",
+            "original_url": "https://d31f902anbz5po.cloudfront.net/1025/271925_1_yankee_large.jpg",
+            "git_file_name": "_assets/image_data/Handicap-Accessible-Executive-Jr.-Suite-Executive-Jr.-Suite---View-from-Sleeper-Sofa.json",
+            "path": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755579/m30tir042o7uuwnkfl6e.jpg",
+            "file_size": null
+          }
+        ]
+      },
+      {
+        "name": "Gallery Two",
+        "images": [
+          {
+            "name": "One-Bedroom-Suite-One-Bedroom-Suite-Kitchenette---Partial-View",
+            "content_type": null,
+            "date_added": "2019-03-04-221256",
+            "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "width": 800,
+            "height": 600,
+            "format": "jpg",
+            "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "resource_type": "image",
+            "size": 79495,
+            "caption": "",
+            "description": "",
+            "alt": "On the right wall, the microwave is built into the cabinet above the refrigerator. To the left more cabinets hang above a dishwasher. In the middle of the room, a dining table sits surrounded by 3 armless chairs. On the left wall, a large window. Above the table, a light fixture hangs from the ceiling.",
+            "original_url": "https://d31f902anbz5po.cloudfront.net/1025/51247_2_yankee_large.jpg",
+            "git_file_name": "_assets/image_data/One-Bedroom-Suite-One-Bedroom-Suite-Kitchenette---Partial-View.json",
+            "path": "//res.cloudinary.com/traveltripperweb/image/upload/v1551755577/p1jgajofsdhewz0bo3js.jpg",
+            "file_size": null
+          }
+        ]
+      }
+    ]
   }
 ]
