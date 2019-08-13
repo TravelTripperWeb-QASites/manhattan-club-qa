@@ -1,0 +1,21 @@
+[
+  {
+    "_template": "galleries",
+    "advanced_options": {
+    },
+    "galleries": [
+      {
+        "gallery": "rooms",
+        "label": "Rooms & Suites"
+      },
+      {
+        "gallery": "city",
+        "label": "Manhattan"
+      },
+      {
+        "label": "Exterior",
+        "gallery": "exterior"
+      }
+    ]
+  }
+]
