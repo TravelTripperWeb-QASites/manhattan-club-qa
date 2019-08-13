@@ -1,0 +1,34 @@
+{
+  "name_localized": {
+    "en": "Spring Special"
+  },
+  "short_description_localized": {
+    "en": "Special Offer! "
+  },
+  "description_localized": {
+    "en": null
+  },
+  "image": {
+    "name": "Spring-Special-Draft-Beer-Promo",
+    "content_type": null,
+    "date_added": "2019-03-19-134741",
+    "url_thumb": "//res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "url_xsmall": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "url_small": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "url_medium": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "url_large": "//res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "url_xlarge": "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_1920,w_1920/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "width": 900,
+    "height": 500,
+    "format": "jpg",
+    "url": "//res.cloudinary.com/traveltripperweb/image/upload/v1553017661/wt7pvi9d4rgfw8oyqu3d.jpg",
+    "resource_type": "image",
+    "size": 109926,
+    "caption": "Draft Beer Promo",
+    "description": "Friends having a cheers with their beers in glasses",
+    "alt": "Friends having a cheers with glasses full of draft beer",
+    "original_url": "https://d31f902anbz5po.cloudfront.net/1025/274260_1_master.jpg",
+    "git_file_name": "_assets/image_data/Spring-Special-Draft-Beer-Promo.json"
+  },
+  "reztrip_offer_id": "PROMO"
+}
