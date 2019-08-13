@@ -1,6 +1,6 @@
 [
   {
-    "content": "<p class=\"h4\">INDULGE YOURSELF</p>\n<p class=\"h4\">&nbsp;</p>\n<p class=\"h2\">IT IS MUCH MORE THAN YOU IMAGINE</p>\n<p class=\"h2\">&nbsp;</p>\n<p><a class=\"btn btn--secondary\" href=\"gallery/\">TAKE A VISUAL TOUR</a></p>",
+    "content": "<p class=\"h4\">INDULGE YOURSELF</p>\n<p class=\"h4\">&nbsp;</p>\n<p class=\"h2\">IT IS <strong>MUCH</strong> MORE THAN YOU IMAGINE</p>\n<p class=\"h2\">&nbsp;</p>\n<p><a class=\"btn btn--secondary\" href=\"gallery/\">TAKE A VISUAL TOUR</a></p>",
     "_template": "html"
   }
 ]
